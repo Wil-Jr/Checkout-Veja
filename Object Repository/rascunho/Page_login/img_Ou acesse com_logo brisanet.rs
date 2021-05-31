@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Ou acesse com_logo brisanet</name>
+   <tag></tag>
+   <elementGuidId>d55f36e1-ca84-4e6c-91f6-dc0a2f856a37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='login']/div[9]/div[5]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>https://abrilgoread-develop.go-vip.net/wp-content/themes/abril-appcontent/assets/img/login/brisanet.png</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'https://abrilgoread-develop.go-vip.net/wp-content/themes/abril-appcontent/assets/img/login/brisanet.png']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://abrilgoread-develop.go-vip.net/wp-content/themes/abril-appcontent/assets/img/login/brisanet.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logo brisanet</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-description</name>
+      <type>Main</type>
+      <value>brisanet</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-img-original</name>
+      <type>Main</type>
+      <value>https://abrilgoread-develop.go-vip.net/wp-content/themes/abril-appcontent/assets/img/login/brisanet.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/div[@class=&quot;md-form row partners&quot;]/div[@class=&quot;col-6&quot;]/img[@class=&quot;logo brisanet&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='login']/div[9]/div[5]/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'https://abrilgoread-develop.go-vip.net/wp-content/themes/abril-appcontent/assets/img/login/brisanet.png')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[5]/img</value>
+   </webElementXpaths>
+</WebElementEntity>
